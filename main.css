@@ -1,0 +1,40 @@
+body{
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.5rem;
+}
+
+
+
+.height{
+	min-height: 100vh;
+}
+
+.height-80{
+	min-height: 80vh;
+}
+
+.title-underline {
+	width: 150px;
+	height: 10px;
+	margin: 0 auto;
+}
+
+/*img{
+	width: 100%;
+
+}*/
+
+/*TRY THIS AGAIN IN VSCODE EDITOR*/
+
+
+#picture {
+	background: url(./img/header-bg.jpeg)center/cover no-repeat fixed;
+	/*background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+}
+
+/*.chan {
+	background-color: pink;
+}*/
